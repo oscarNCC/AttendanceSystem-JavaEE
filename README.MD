@@ -3,8 +3,8 @@
 This project aims to develop a web-based attendance system to improve the accuracy and efficiency of recording student attendance. The system is designed with a user-friendly GUI, offering functionalities such as monitoring, tracking, and reporting student attendance, along with account management, analytics, and reporting features.
 
 ### Team Members
-[Yannis Ng](URL) : System design, UI design, Plugin application, Implementation
-[Oscar Chan](URL): Database design, Documentation, Implementation
+- [Yannis Ng](URL) : System design, UI design, Plugin application, Implementation
+- [Oscar Chan](URL): Database design, Documentation, Implementation
 
 
 ### System Design 
