@@ -9,6 +9,12 @@ This project aims to develop a web-based attendance system to improve the accura
 - Ng Yee Ching: System design, UI design, Plugin application, Implementation
 - Chan Ngai Chin: Database design, Documentation, Implementation
 
+### System Design 
+![Example Image](https://github.com/oscarNCC/AttendanceSystem-JavaEE/blob/master/Screenshot%202024-02-18%20233317.png)
+![Example Image](https://github.com/oscarNCC/AttendanceSystem-JavaEE/blob/master/Screenshot%202024-02-18%20233256.png)
+![Example Image](https://github.com/oscarNCC/AttendanceSystem-JavaEE/blob/master/Screenshot%202024-02-18%20233244.png)
+
+
 ### Features
 - **User Roles & Access Rights**: Different access rights for System Administrators, Teachers, and Students including profile management, module/course management, attendance recording, and reporting.
 - **Functional Requirements**: Class management, attendance functions, analytics/report generation, and account management.
