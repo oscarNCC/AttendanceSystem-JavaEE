@@ -1,7 +1,4 @@
-# Attendance System Project
-## Hong Kong Institute of Vocational Education (ST) - Department of Information Technology
-
-### Course: ITP4511 Enterprise Systems Development, AY 19/20
+# Attendance System 
 
 This project aims to develop a web-based attendance system to improve the accuracy and efficiency of recording student attendance. The system is designed with a user-friendly GUI, offering functionalities such as monitoring, tracking, and reporting student attendance, along with account management, analytics, and reporting features.
 
